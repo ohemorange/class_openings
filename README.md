@@ -1,2 +1,1 @@
-class_openings
-==============
+It's the morning of class registration. I wake up at ridiculous-o-clock. I click to enter precisely on the dot... and don't get into the classes I want. Well, I'm up anyway. Might as well write this quick-and-dirty script to find out when the classes open. Scheduled on heroku.
